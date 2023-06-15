@@ -1,0 +1,17 @@
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\bin\Debug\net6.0-windows\Prova POO.exe
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\bin\Debug\net6.0-windows\Prova POO.deps.json
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\bin\Debug\net6.0-windows\Prova POO.runtimeconfig.json
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\bin\Debug\net6.0-windows\Prova POO.dll
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\bin\Debug\net6.0-windows\Prova POO.pdb
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.csproj.AssemblyReference.cache
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova_POO.Form1.resources
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.csproj.GenerateResource.cache
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.AssemblyInfoInputs.cache
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.AssemblyInfo.cs
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.csproj.CoreCompileInputs.cache
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.dll
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\refint\Prova POO.dll
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.pdb
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\Prova POO.genruntimeconfig.cache
+C:\Users\2022102020037\source\repos\Prova POO\Prova POO\obj\Debug\net6.0-windows\ref\Prova POO.dll
