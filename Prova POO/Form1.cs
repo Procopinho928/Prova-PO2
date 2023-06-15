@@ -19,34 +19,10 @@ namespace Prova_POO
                 double confins = Convert.ToDouble(txt_confins.Text);//PORCENTAGEM IMPOSTO CONFINS
                 double lucro = Convert.ToDouble(txt_lucro.Text);//VALOR DE LUCRO
 
+                Produto conexao = new Produto(unidade, valor, pis, icms, confins, lucro);
 
 
-                if (unidade == "UN")
-                {
-                    //IMPOSTO
-                    double somaImposto = pis + confins + icms;//15
-                    double valorImposto = valor + (valor * somaImposto) / 100;//23
-                    double valorLucro = (valorImposto * lucro) / 100;
-                    double valorVenda = valorImposto + valorLucro;
-                    lbl_valorVenda.Text = valorVenda.ToString("C2");
-                }
-                if (unidade == "LT" || unidade == "KL")
-                {
-                    //IMPOSTO
-
-                    double somaImposto = pis + confins + icms;//15
-                    double valorImposto = valor + (valor * somaImposto) / 100;//23
-                    double valorLucro = (valorImposto * lucro) / 100;
-                    double valorVenda = valorImposto + valorLucro;
-                    double impostoUnidade = (valorVenda * 5) / 100;
-                    double valorTotal = valorVenda + impostoUnidade;
-
-                    lbl_valorVenda.Text = valorTotal.ToString("C2");
-                }
-                else if (unidade == "")
-                {
-                    MessageBox.Show("Unidade não preenchida");
-                }
+                lbl_valorVenda.Text = conexao.CalcularValorFinal();
             }
             catch (Exception error)
             {
